@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-website/static/css/main.15c05c89.chunk.css",
+    "main.js": "/project-website/static/js/main.61d41726.chunk.js",
+    "main.js.map": "/project-website/static/js/main.61d41726.chunk.js.map",
+    "runtime~main.js": "/project-website/static/js/runtime~main.c3de37a2.js",
+    "runtime~main.js.map": "/project-website/static/js/runtime~main.c3de37a2.js.map",
+    "static/css/2.a881067f.chunk.css": "/project-website/static/css/2.a881067f.chunk.css",
+    "static/js/2.ca886e4e.chunk.js": "/project-website/static/js/2.ca886e4e.chunk.js",
+    "static/js/2.ca886e4e.chunk.js.map": "/project-website/static/js/2.ca886e4e.chunk.js.map",
+    "index.html": "/project-website/index.html",
+    "precache-manifest.846c1676b78d65c5d8d12649da87fd7f.js": "/project-website/precache-manifest.846c1676b78d65c5d8d12649da87fd7f.js",
+    "service-worker.js": "/project-website/service-worker.js",
+    "static/css/2.a881067f.chunk.css.map": "/project-website/static/css/2.a881067f.chunk.css.map",
+    "static/css/main.15c05c89.chunk.css.map": "/project-website/static/css/main.15c05c89.chunk.css.map",
+    "static/media/BriefDesc.css": "/project-website/static/media/BriefDesc.621cb2f6.png",
+    "static/media/Discord.svg": "/project-website/static/media/Discord.192cb945.svg",
+    "static/media/TheSecondDreamTheme.mp3": "/project-website/static/media/TheSecondDreamTheme.9edd36fd.mp3",
+    "static/media/WebLanding.webm": "/project-website/static/media/WebLanding.c2a337c6.webm",
+    "static/media/Members.css": "/project-website/static/media/frames.180a1872.jpg",
+    "static/media/hydra.png": "/project-website/static/media/hydra.117a76ee.png",
+    "static/media/Minecraft.css": "/project-website/static/media/minecraft.4d55175e.jpg",
+    "static/media/Warframe.css": "/project-website/static/media/wfmoon.d47bb83b.jpg"
+  }
+}
