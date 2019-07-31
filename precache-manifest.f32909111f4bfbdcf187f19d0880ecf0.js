@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35227c3c6495b075225acb3e54d6b665",
+    "revision": "df9a2ad6ec4c9eab7778830eabfe0f27",
     "url": "/project-website/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/project-website/static/css/2.a881067f.chunk.css"
   },
   {
-    "revision": "46bd7a6b88af89127c54",
-    "url": "/project-website/static/css/main.58272470.chunk.css"
+    "revision": "c3a7be2bf565d2269e1f",
+    "url": "/project-website/static/css/main.06cb39d9.chunk.css"
   },
   {
     "revision": "6c094696986dba3a1d41",
     "url": "/project-website/static/js/2.ee3c2b3e.chunk.js"
   },
   {
-    "revision": "46bd7a6b88af89127c54",
-    "url": "/project-website/static/js/main.629b6bb4.chunk.js"
+    "revision": "c3a7be2bf565d2269e1f",
+    "url": "/project-website/static/js/main.8f521d8b.chunk.js"
   },
   {
     "revision": "9db920f5251bf41c4422",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "117a76eee2e03d1fa8d218f1fb10164c",
     "url": "/project-website/static/media/hydra.117a76ee.png"
+  },
+  {
+    "revision": "678cf105e74a574bdbcf311c306a5045",
+    "url": "/project-website/static/media/hydra2.678cf105.jpg"
   },
   {
     "revision": "4d55175ea7cf97a9618aad08c4cbfdf4",
