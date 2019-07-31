@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28e38a5831647bb59e80f50e3317b31a",
+    "revision": "55457b4770f447f211bbd7628f6de0c5",
     "url": "/project-website/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/project-website/static/css/2.a881067f.chunk.css"
   },
   {
-    "revision": "9aaf506e0b9193661ff1",
-    "url": "/project-website/static/css/main.e3462342.chunk.css"
+    "revision": "95555668cf310971468e",
+    "url": "/project-website/static/css/main.26d4d044.chunk.css"
   },
   {
     "revision": "6c094696986dba3a1d41",
     "url": "/project-website/static/js/2.ee3c2b3e.chunk.js"
   },
   {
-    "revision": "9aaf506e0b9193661ff1",
-    "url": "/project-website/static/js/main.1c523a99.chunk.js"
+    "revision": "95555668cf310971468e",
+    "url": "/project-website/static/js/main.8044e680.chunk.js"
   },
   {
     "revision": "9db920f5251bf41c4422",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4d55175ea7cf97a9618aad08c4cbfdf4",
     "url": "/project-website/static/media/minecraft.4d55175e.jpg"
+  },
+  {
+    "revision": "b993d48f73a807384e3bf87ae7b22701",
+    "url": "/project-website/static/media/warframeLogo.b993d48f.png"
   },
   {
     "revision": "d47bb83b0b88c422f36aee4585e96beb",
