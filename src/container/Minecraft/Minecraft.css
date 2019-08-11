@@ -1,0 +1,6 @@
+.MinecraftLanding{
+    background-image: url(../../images/minecraft.jpg);
+    height: calc(100vh - 55px);
+    background-position: center;
+    background-size: cover;
+}

@@ -1,0 +1,43 @@
+.guide{
+    background-color: black;
+}
+.guide > div{
+    padding-bottom: 10px;
+}
+.guide .frame-builds{
+    border: 1px solid white;
+    cursor: pointer;
+}
+.guide .frame-builds img{
+    width: 100%;
+}
+.guide .frames {
+    border: 1px solid white;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.guide .frames img {
+    width: 100%
+}
+.guide .frames p {
+    color: white;
+}
+.guide img{
+    width: 100%;
+}
+.guide .weapons{
+    border: 1px solid white;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.guide .weaponTypes{
+    border: 1px solid white;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.guide .frame-build{
+    padding-top: 15px;
+}
+.guide .alice-carousel__stage-item {
+    margin: 0px !important;
+}

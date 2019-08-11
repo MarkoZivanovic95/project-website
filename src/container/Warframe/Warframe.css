@@ -1,0 +1,13 @@
+.background-moon{
+    background-image: url(../../images/wfmoon.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+}
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+.JoinWfBg{
+    background-image: url('https://cdn.wccftech.com/wp-content/uploads/2018/06/TheSacrifice_Keyart_1080p_wLogo.jpg');
+}

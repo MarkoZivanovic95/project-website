@@ -1,0 +1,18 @@
+.desc{
+    background-image: url(../../../images/BriefDesc.png);
+    background-position: top center;
+    position: relative;
+}
+.desc>div>div>div>div>p,h3{
+    color: #fff;
+}
+.briefdesc{
+    padding: 150px 0;
+}
+.firstdesc{
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+    text-align: center;
+    justify-content: center;
+    margin: 5px 0;
+}

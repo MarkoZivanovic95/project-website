@@ -1,0 +1,18 @@
+.members{
+    background-image: url(../../../images/framebuilds.jpg);
+    background-position: inherit;
+    padding-bottom: 20px;
+    padding-top: 25px;
+    background-attachment: fixed;
+    position: relative;
+}
+.members i{
+    cursor: pointer;
+    color: white;
+}
+.members h2{
+    color: white;
+}
+.members p{
+    color: white;
+}

@@ -1,0 +1,54 @@
+
+.warframeMain{
+    min-height: calc(100vh - 55px);
+    background-position: top center;
+    position: relative;
+}
+.warframeMain h2{
+    color: white;
+    font-size: 58px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+.warframeMain>i{
+    position: absolute;
+    top: 70px;
+    right: 30px;
+}
+/* #myVideo {
+    min-width: 100%; 
+    min-height: calc(100vh - 55px);
+  } */
+  .video-container {
+    width: 100%;
+    overflow: hidden;
+  }
+  #fixed {
+    position: relative;
+    height: 100vh;
+    z-index: 0;
+}
+#fixed video {
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -o-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    position: fixed;
+    top: 53%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+}
+@media only screen and (max-width:768px){
+    .warframeMain>i {
+        position: absolute;
+        bottom: 70px;
+        right: 30px;
+        top: auto;
+    }
+}

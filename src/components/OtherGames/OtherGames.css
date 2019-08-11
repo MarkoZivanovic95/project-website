@@ -1,0 +1,10 @@
+.othergames{
+    position: absolute;
+    width: 100%;
+    min-height: 100vh;
+    background-color: black;
+}
+.othergames>div>h2{
+    padding: 20px 0;
+    color: #fff;
+}

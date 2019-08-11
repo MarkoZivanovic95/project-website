@@ -1,0 +1,122 @@
+[
+    {
+        "id":0,
+        "name":"Katana",
+        "type":"sword",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":1,
+        "name":"kat",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":2,
+        "name":"ana",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":3,
+        "name":"123",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":4,
+        "name":"456",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":5,
+        "name":"78900",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":6,
+        "name":"0-==",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":7,
+        "name":"0-==",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":8,
+        "name":"0-==",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":9,
+        "name":"0-==",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":10,
+        "name":"0-==",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":11,
+        "name":"0-==",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":12,
+        "name":"0-==",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":13,
+        "name":"0-==",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    },
+    {
+        "id":14,
+        "name":"0-==",
+        "type":"Bow",
+        "masteryReq":"Mr5",
+        "drop":"Has a chance to drop after defeating Stalker",
+        "lol":"best weapon ingame"
+    }
+]

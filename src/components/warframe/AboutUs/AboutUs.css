@@ -1,0 +1,42 @@
+.about-us h2{
+    color: white;
+}
+.about-us p{
+    color: white;
+    margin-bottom: 0px;
+}
+.gradientUs{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    animation: zoom 5s infinite alternate;
+}
+.about-us{
+    position: relative;
+}
+.about-us .container{
+    padding-bottom: 25px;
+    position: relative;
+}
+.about-us-bg{
+    background-image: url(../../../images/frames.jpg);
+    background-position: top center;
+    background-position: center center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    animation: zoom 5s infinite alternate;
+}
+@keyframes zoom {
+    0% {
+        transform: scale(1)
+    }
+    100% {
+        transform: scale(1.05)
+    }
+}

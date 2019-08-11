@@ -1,0 +1,15 @@
+.gallery{
+    padding: 0 30px 20px 30px;
+    background-color: black;
+}
+.gallery>h2{
+    padding: 10px 0;
+    color: white;
+}
+.react-images__header{
+    position: absolute;
+    top: 6% !important;
+}
+.react-images__header--isFullscreen{
+    top: 0% !important
+}

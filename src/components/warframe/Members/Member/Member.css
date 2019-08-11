@@ -1,0 +1,27 @@
+.member img{
+    width: 100%;
+    cursor: pointer;
+    height: 250px;
+}
+.member{
+    margin: 10px 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: relative;
+}
+.member h6{
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+.memberBgImage{
+    height: 180px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.memberGradient{
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 100%;
+    width: 100%
+}

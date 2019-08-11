@@ -1,0 +1,17 @@
+.gameMg{
+    margin: 20px 0;
+}
+.gameBg{
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+.gameBg>h4{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+}

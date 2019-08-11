@@ -1,0 +1,18 @@
+.dojo .alice-carousel__stage-item {
+    margin: 0 !important;
+}
+.dojo{
+    background-color: black;
+}
+.dojo img{
+    cursor: pointer;
+}
+.dojo h2{
+    color: white;
+    position: relative;
+    top: 50px;
+    z-index: 2;
+}
+.dojo .alice-carousel__dots{
+    margin: 30px 0 0px;
+}
